@@ -6,11 +6,11 @@
 			<BuildsUrl 
 				id="builds" 
 				title="Latest Build With RR-EX Kernel" 
-				description="Download Latest Build Test/Stable)">http://androidfiles.namanbhalla.in/oneplus3/rr/PUBLIC/ResurrectionRemix-M-v5.7.3-20160813-PUBLIC-rr-ex-oneplus3.zip</BuildsUrl>	
+				description="Download Latest Build with RR-EX Kernel">http://androidfiles.namanbhalla.in/oneplus3/rr/PUBLIC/ResurrectionRemix-M-v5.7.3-20160813-PUBLIC-rr-ex-oneplus3.zip</BuildsUrl>	
                         <cmBuildsUrl 
 				id="cmbuilds" 
 				title="Latest Build With CM Kernel" 
-				description="Download Latest Build Test/Stable)">http://androidfiles.namanbhalla.in/oneplus3/rr/PUBLIC/ResurrectionRemix-M-v5.7.3-20160813-PUBLIC-cm-oneplus3.zip</cmBuildsUrl>			
+				description="Download Latest Build with CM Kernel">http://androidfiles.namanbhalla.in/oneplus3/rr/PUBLIC/ResurrectionRemix-M-v5.7.3-20160813-PUBLIC-cm-oneplus3.zip</cmBuildsUrl>			
 			<XDAThreadURL
 				id="xda"
 				title="XDA Thread"
